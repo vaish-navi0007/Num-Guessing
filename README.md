@@ -48,7 +48,7 @@ python guess_gui.py
 ---
 
 ## 📸 Screenshot
-https://github.com/vaish-navi0007/Num-Guessing/issues/1#issue-3077541879
+![Image](https://github.com/user-attachments/assets/7e107971-3f7e-4ecd-89c7-8a4a2f6dae80)
 
 ---
 
