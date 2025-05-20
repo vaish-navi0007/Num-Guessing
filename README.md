@@ -60,14 +60,5 @@ python guess_gui.py
 ├── README.md          # Project description
 ```
 
----
 
-
----
-
-
----
-
-
----
 
